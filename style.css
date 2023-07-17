@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    margin-top: 150px;
+    text-align: center;
+}
+
+input {
+    font-size: 20px;
+    color: #000;
+    width: 200px;
+}
+
+.keyboard {
+    margin-top: 10px;
+}
+
+button {
+    margin: 2px 2px;
+}
+
+.btn {
+    padding: 2px;
+    color: #000;
+    height: 45px;
+    font-size: 20px;
+}
+
+.btn-normal {
+    width: 45px;
+}
+
+.btn-large {
+    width: 150px;
+}
